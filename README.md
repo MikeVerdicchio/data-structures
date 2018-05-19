@@ -1,6 +1,6 @@
 Data Strucutures
 ================
-This repository contains a collection of data structure implementations in various languages. It serves as my "library" for future projects. Currently, it has the following languages and data structures, with the hope that I'll add more languages and structures as I implement them in projects.
+This repository contains a collection of data structure implementations in various languages. It serves as my "library" for future projects. Currently, it has the following languages and data structures. This repository is a work-in-progress as I will be adding more (including Python structures) in the future.
 
 * C++
     * Hash Table
